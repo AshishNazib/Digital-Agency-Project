@@ -14,4 +14,11 @@
     flex-wrap: wrap;
     padding-bottom: 45px;
   }
+
+  .right_side .move {
+    position: static;
+}
+.featured_images .image{
+    margin-top: 24px;
+}
 }
